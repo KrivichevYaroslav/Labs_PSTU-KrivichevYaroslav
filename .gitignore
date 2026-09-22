@@ -1,5 +1,13 @@
-﻿main.exe
+# C++
+*.exe
+*.o
 *.obj
-*.pdb
-*.ilk
-.vscode/
+
+# Docs and media
+docs/
+*.mp4
+*.word
+*.zip
+*.pptx
+*.pdf
+*.pt
